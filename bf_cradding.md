@@ -1,5 +1,0 @@
-- You start a day or 2 before CC starts. 
-- Start your stacker and do missions put in so few as possible, 
-- a minimum of 60 mins stack. Do that even during CC, finish the day with it. 
-- Do it as soon as your competitors are getting stronger. Time to cred. 
-- The computer somehow gives us ranks every few hours.
