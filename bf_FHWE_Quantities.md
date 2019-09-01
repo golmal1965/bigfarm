@@ -4,3 +4,14 @@
  - Herring 333
  - Lobsters 784 - Once you bonus time drops to apx 45 mins
  - Swordfish, Cod and Salmon 239 - Once you bonus time drops to 5 mins.
+
+
+ Farmers League medals  points:
+
+  - Gold: 1,000
+  - Silver: 950
+  - Bronze: 850
+  - Glass: 700
+  - Copper: 500
+  - Stone: 300
+  - Wood: 100
