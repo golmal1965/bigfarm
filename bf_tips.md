@@ -78,6 +78,8 @@ First I pick the best gene pool.  131 is the best this time   https://prnt.sc/iy
 
 Then I put the sliders down in show jumping and endurance  https://prnt.sc/iyju5g
 
+![download](https://user-images.githubusercontent.com/54517988/69015220-d7bbef00-0946-11ea-9b2d-b8e7d6ed03fd.png)
+
 Then pull up the slider on the Basic Attribute (large icon) of Agility
 https://prnt.sc/iyjv58 
 
