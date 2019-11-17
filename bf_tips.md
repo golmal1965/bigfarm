@@ -1,4 +1,4 @@
- ##FHWE Quantities
+ FHWE Quantities
  
  - Clams and Oysters 398
  - Shrimp 496
@@ -8,7 +8,7 @@
  - Swordfish, Cod and Salmon 239 - Once you bonus time drops to 5 mins.
 
 
- ##Farmers League medals  points:
+ Farmers League medals  points:
 
   - Gold: 1,000
   - Silver: 950
@@ -18,7 +18,7 @@
   - Stone: 300
   - Wood: 100
 
-##CHWE Max Required
+CHWE Max Required [Credit : K3VIN]
 
  - WF 15k
  - corn 17k
@@ -34,7 +34,7 @@
  - LL 40k
  - jas 28k
 
-##Improvement Tips:
+Improvement Tips: [Credit : DrMarky]
 
 1.	acrobatic kite deco from the championship trader. gives you an extra 25% reps.
 2.	more little fields -- Replace large fields with fertile fields. 
@@ -53,7 +53,7 @@
 15.	To avoid  spending gold when clicking accidently:  There is a box in Settings -- "Gold confirmation" -- I set mine to 1 coin.  I previously lost over $80,000 in gold from "accidental" clicks.  
 
 
-##Horse Meadow
+##Horse Meadow [Credit : JVD]
 
 These are the most common mistakes people are making.
 
