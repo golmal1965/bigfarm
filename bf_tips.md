@@ -80,8 +80,9 @@ Then I put the sliders down in show jumping and endurance  https://prnt.sc/iyju5
 
 ![download](https://user-images.githubusercontent.com/54517988/69015220-d7bbef00-0946-11ea-9b2d-b8e7d6ed03fd.png)
 
-Then pull up the slider on the Basic Attribute (large icon) of Agility
-https://prnt.sc/iyjv58 
+Then pull up the slider on the Basic Attribute (large icon) of Agility https://prnt.sc/iyjv58 
+
+![download (1)](https://user-images.githubusercontent.com/54517988/69015262-27021f80-0947-11ea-87af-401eca8bb5ad.png)
 
 Any remaining points go on breeding effects of +endurance (small icon)
 https://prnt.sc/iyjwhx
