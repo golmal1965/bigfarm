@@ -71,8 +71,10 @@ A: This is perhaps because you are choosing breeding effects of show jumping, dr
 
 It takes FOUR of these to equal just ONE breeding effect of +strength training, +agility training, or +endurance training.  OR +strength, +agility, or +endurance.
 
-First I pick the best gene pool.  131 is the best this time   
-https://prnt.sc/iyjs8u
+First I pick the best gene pool.  131 is the best this time   https://prnt.sc/iyjs8u
+![download](https://user-images.githubusercontent.com/54517988/69015205-a511f680-0946-11ea-92ec-77f8775c4375.png)
+
+
 
 Then I put the sliders down in show jumping and endurance  https://prnt.sc/iyju5g
 
