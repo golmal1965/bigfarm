@@ -1,4 +1,4 @@
-# Fish Hard Working Event (FHWE Quantities)
+## Fish Hard Working Event (FHWE Quantities)
 
 | Fish      | Quantity |
 |-----------|----------|
