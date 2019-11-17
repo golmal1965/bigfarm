@@ -84,8 +84,10 @@ Then pull up the slider on the Basic Attribute (large icon) of Agility https://p
 
 ![download (1)](https://user-images.githubusercontent.com/54517988/69015262-27021f80-0947-11ea-87af-401eca8bb5ad.png)
 
-Any remaining points go on breeding effects of +endurance (small icon)
-https://prnt.sc/iyjwhx
+Any remaining points go on breeding effects of +endurance (small icon) https://prnt.sc/iyjwhx
+
+![download](https://user-images.githubusercontent.com/54517988/69015312-8e1fd400-0947-11ea-9ad6-37fc686693ea.png)
+
 
 Then click on the big heart button below to breed.  I have 100% chance of leveling up in Agility, and 31% chance of aquiring +1 in endurance training
 
