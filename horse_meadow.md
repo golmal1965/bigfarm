@@ -3,6 +3,7 @@
 These are the most common mistakes people are making.
 
 1)  _**Why does my horse never level up?**_
+
 **A**:  Your horse isn't leveling up because it is gaining in breeding effects instead of BASIC ATTRIBUTES.  IT IS MOST IMPORTANT TO KNOW THE DIFFERENCE.  If you aren't sure, hover over the icon on the wheel.  Only 3 are Basic Atrributes, and 6 are breeding effects. Basic Attributes are the larger icon version of Strength, Agility and Endurance.
 
 2) _**So where do I find my breeding effects?**_
