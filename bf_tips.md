@@ -104,3 +104,25 @@ Combo 1: Brush, Sugarcube, Jumping Obstacle, Blanket. (4 items) Basic Attribute 
 Combo 2: Jumping Obstacle, Hoofpick, Sugarcube, Jumping Obstacle, Brush.(5 items) Basic Attribute of Endurance.
 
 Combo 3: Jumping Obstacle, Hoofpick, Sugarcube, Jumping Obstacle, Hoofpick, Brush. (6 items)  Basic Attribute of Strength
+
+## Dreamword 
+
+2 level 1 mills will feed 4 level 1 chickens (candy chickens are best more dung) 
+
+4 level 1 chickens will feed one level 1 silo
+
+1 level 1 silo will feed 3 apples orchards
+
+these numbers change as you buy books
+
+I buy regular houses, save moons for stables and orchards
+buy cheap deco's at the start, keep happiness in the green, change out for better deco's as you go....
+Use your tractors when you can, they help lots, orchard one and xp tractors are my fav
+
+## Temp Farm
+
+Its a good idea to build a temp farm, if you got the time and money, even a small farm can buy you a few northern lights 4x8 duck coops in the trade center, I suggest you build the minimum amount to make coats, even if you don't fallow the quests you'll make enough to buy few ducks for your G farm...
+
+Hint, 2 lv 4 fields, 1 mill lv4, 4 penguins lv4, 1 silo lv4, 1 lv4 Tree grove,  1 lv4 Berry orchard, 1 lv4 sheep pasture, lv4 workshop, will make a coat you can sell for rune stones every 4h
+..
+
