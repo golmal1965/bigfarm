@@ -1,4 +1,4 @@
- FHWE Quantities
+ ## FHWE Quantities
  
  - Clams and Oysters 398
  - Shrimp 496
@@ -8,7 +8,7 @@
  - Swordfish, Cod and Salmon 239 - Once you bonus time drops to 5 mins.
 
 
- Farmers League medals  points:
+ ## Farmers League medals  points:
 
   - Gold: 1,000
   - Silver: 950
@@ -18,7 +18,7 @@
   - Stone: 300
   - Wood: 100
 
-CHWE Max Required [Credit : K3VIN]
+## CHWE Max Required [Credit : K3VIN]
 
  - WF 15k
  - corn 17k
@@ -34,7 +34,7 @@ CHWE Max Required [Credit : K3VIN]
  - LL 40k
  - jas 28k
 
-Improvement Tips: [Credit : DrMarky]
+## Improvement Tips: [Credit : DrMarky]
 
 1.	acrobatic kite deco from the championship trader. gives you an extra 25% reps.
 2.	more little fields -- Replace large fields with fertile fields. 
@@ -53,7 +53,7 @@ Improvement Tips: [Credit : DrMarky]
 15.	To avoid  spending gold when clicking accidently:  There is a box in Settings -- "Gold confirmation" -- I set mine to 1 coin.  I previously lost over $80,000 in gold from "accidental" clicks.  
 
 
-##Horse Meadow [Credit : JVD]
+## Horse Meadow [Credit : JVD]
 
 These are the most common mistakes people are making.
 
@@ -105,7 +105,7 @@ Combo 2: Jumping Obstacle, Hoofpick, Sugarcube, Jumping Obstacle, Brush.(5 items
 
 Combo 3: Jumping Obstacle, Hoofpick, Sugarcube, Jumping Obstacle, Hoofpick, Brush. (6 items)  Basic Attribute of Strength
 
-## Dreamword 
+## Dreamword [Credit : K3VIN]
 
 2 level 1 mills will feed 4 level 1 chickens (candy chickens are best more dung) 
 
@@ -119,7 +119,7 @@ I buy regular houses, save moons for stables and orchards
 buy cheap deco's at the start, keep happiness in the green, change out for better deco's as you go....
 Use your tractors when you can, they help lots, orchard one and xp tractors are my fav
 
-## Temp Farm
+## Temp Farm [Credit : K3VIN]
 
 Its a good idea to build a temp farm, if you got the time and money, even a small farm can buy you a few northern lights 4x8 duck coops in the trade center, I suggest you build the minimum amount to make coats, even if you don't fallow the quests you'll make enough to buy few ducks for your G farm...
 
