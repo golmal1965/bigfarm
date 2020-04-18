@@ -4,4 +4,4 @@
 - [Improvement Tips](https://github.com/golmal1965/bigfarm/blob/master/improvement_tips.md)  [Credit : DrMarky]
 - [Horse Meadow](https://github.com/golmal1965/bigfarm/blob/master/horse_meadow.md) [Credit : JVD]
 - [Houses](https://github.com/golmal1965/bigfarm/blob/master/bf_houses.md) [Credit : K3VIN]
-- [Horse Crafting](https://github.com/golmal1965/bigfarm/blob/master/HorseCraft.md)
+- [Horse Crafting](https://github.com/golmal1965/bigfarm/blob/master/HorseCraft.md) [WIP : golmal1965]
