@@ -148,7 +148,7 @@ Build your fishing fleet so you can get the most fish possible, when GGS gives u
 Plant sunflower seeds at night, good source of income.
 Gathering wood for village: plant corn on main farm, add edge plants. If you have the personal  subscription, set for repeat and use the turbo harvester and swift seeder and set for repeat til you fill your inventory. Then just plant corn to clear fields.
 
-## Horse Meadow Tips*:
+## Horse Meadow Tips*: [Credit : JVD]
 
 1)  Why does my horse never level up?
 
@@ -216,13 +216,13 @@ These are hidden in the Cooperative Meadow tab in the stable.  These have no lim
 Never pick the large icon - you will level up out of the meadow and your best horse won't be able to get stronger.
 
 
-## Pleasure Park Tips*:
+## Pleasure Park Tips*: [Credit : JVD]
 The below info was particularly helpful to me getting into top 5 to win the Citrus Grove. You just have to keep tweaking decos til you get it the way you want it, and I did it with about 20 stalls. Of course it will depend on who you are playing against. Eventually I will update with different decos that will take less space so I can get a few more stalls. I personally am not trying for 1st place!:
 
 
 
 
-## Calculate PPS in HW Events*:
+## Calculate PPS in HW Events*: [Credit : JVD]
 
 
 If you can’t take a screen shot, just write down the numbers and then calculate.
