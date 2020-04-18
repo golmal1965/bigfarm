@@ -3,7 +3,7 @@
 - Open Tournament Challenge
 - Pick the lowest rank
  	- Look at Tracks under Jumping , Dressage , Racing  
-	- Lok at course (example : 25 Obstacles, 20 Obstacles etc )
+	- Look at course (example : 25 Obstacles, 20 Obstacles etc )
 	- Pick One and click "view" at the center
 	- At the top, you will see various obstacles 
 	- At the bottom, you will see summary of obstacles (in my track, I am seeing 11 sand heap, 8 mud hole and 6 ground branches)  
