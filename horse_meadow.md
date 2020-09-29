@@ -46,4 +46,7 @@ These combos will increase your horse basic attributes easily and you must do th
  - **Combo 2**: Jumping Obstacle, Hoofpick, Sugarcube, Jumping Obstacle, Brush.(5 items) Basic **Attribute of Endurance.**
 
  - **Combo 3**: Jumping Obstacle, Hoofpick, Sugarcube, Jumping Obstacle, Hoofpick, Brush. (6 items)  Basic **Attribute of Strength**
+ 
+ ![Horse_training](https://user-images.githubusercontent.com/54517988/94511422-20cb0980-01ce-11eb-864e-fe8755d38153.png)
+
 
